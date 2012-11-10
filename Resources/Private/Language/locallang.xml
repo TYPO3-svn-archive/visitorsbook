@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for the Visitors Book extension in the FRONTEND</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_visitorsbook_domain_model_entry">Entry</label>
+			<label index="tx_visitorsbook_domain_model_entry.name">name</label>
+			<label index="tx_visitorsbook_domain_model_entry.email">email</label>
+			<label index="tx_visitorsbook_domain_model_entry.ip">IP of user</label>
+			<label index="tx_visitorsbook_domain_model_entry.entry">entry</label>
+			<label index="tx_visitorsbook_domain_model_entry.notification">Notification if new entries</label>
+			<label index="tx_visitorsbook_domain_model_entry.approved">If approved, entry will be displayed</label>
+			<label index="tx_visitorsbook_domain_model_entry.spam">Mark entry as spam</label>
+			<label index="tx_visitorsbook_domain_model_entry.child_entries">childEntries</label>
+			<label index="tx_visitorsbook_domain_model_entry.feuser">feuser</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'visitorsbook'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+            
+			<label index="tx_visitorsbook_domain_model_entry">Entry</label>
+			<label index="tx_visitorsbook_domain_model_entry.name">Name</label>
+			<label index="tx_visitorsbook_domain_model_entry.email">Email</label>
+			<label index="tx_visitorsbook_domain_model_entry.ip">Ip</label>
+			<label index="tx_visitorsbook_domain_model_entry.entry">Entry</label>
+			<label index="tx_visitorsbook_domain_model_entry.notification">Notification</label>
+			<label index="tx_visitorsbook_domain_model_entry.approved">Approved</label>
+			<label index="tx_visitorsbook_domain_model_entry.spam">Spam</label>
+			<label index="tx_visitorsbook_domain_model_entry.child_entries">Child Entries</label>
+			<label index="tx_visitorsbook_domain_model_entry.feuser">Feuser</label>
+
+		</languageKey>
+	</data>
+</T3locallang>

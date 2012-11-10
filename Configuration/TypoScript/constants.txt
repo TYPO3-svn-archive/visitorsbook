@@ -1,0 +1,14 @@
+plugin.tx_visitorsbook {
+	view {
+		# cat=plugin.tx_visitorsbook/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:visitorsbook/Resources/Private/Templates/
+		# cat=plugin.tx_visitorsbook/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:visitorsbook/Resources/Private/Partials/
+		# cat=plugin.tx_visitorsbook/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:visitorsbook/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_visitorsbook//a; type=string; label=Default storage PID
+		storagePid = 
+	}
+}
